@@ -275,9 +275,9 @@ Message <b>: {}</b>"""
 🗂 𝗙𝗶𝗹𝗲: <b><font class=smcp>{file_name}</font></b>
 📀 𝗦𝗶𝘇𝗲: <b><font class=smcp>{file_size}</font></b>
 
-<b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/Mania24SupportBot">𝐊𝐔𝐒𝐇𝐀𝐋</a>
-🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/Netflix_Bollywood_Movie_Series">𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
-🔰 Gʀᴏᴜᴘ : <a href="https://t.me/Find_Movie_Series_Request_Group1">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
+<b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/Mania24SupportBot">ᴘᴀʀᴀᴅɪsᴇ ᴍᴀɴɪᴀ</a>
+🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/Netflix_Bollywood_Movie_Series">ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a>
+🔰 Gʀᴏᴜᴘ : <a href="https://t.me/Find_Movie_Series_Request_Group1">ᴍᴏᴠɪᴇs ʀᴇϙᴜᴇsᴛ ɢʀᴏᴜᴘ</a></b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -320,8 +320,8 @@ IMDb Data:
 <b>🔥 ᴄʜᴏᴏsᴇ ʏᴏᴜʀ sᴜɪᴛᴀʙʟᴇ ᴘʟᴀɴ ᴀɴᴅ ᴘᴀʏ ʏᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ғᴇᴇs ᴜsɪɴɢ ᴀɴʏ ᴜᴘɪ ᴀᴘᴘ. 
 
 ᴘʟᴀɴ ᴀ : 1 ᴍᴏɴᴛʜs / ₹199
-ᴘʟᴀɴ ʙ : 2 ᴍᴏɴᴛʜs / ₹350
-ᴘʟᴀɴ ᴄ : 1 ʏᴇᴀʀ / ₹850
+ᴘʟᴀɴ ʙ : 2 ᴍᴏɴᴛʜs / ₹349
+ᴘʟᴀɴ ᴄ : 1 ʏᴇᴀʀ / ₹999
 
 ➻ ᴜᴘɪ ɪᴅ : dpanchal@oksbi
 
@@ -335,14 +335,14 @@ IMDb Data:
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ ᴀɴᴅ ɢɪᴠᴇ ᴍᴇ sᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ.</b>"""
 
     PLAN2_TXT = """
-<b>🔥 ᴘᴀʏ ʏᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ ғᴇᴇs ₹350 ғᴏʀ 2 ᴍᴏɴᴛʜs ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇss ᴡɪᴛʜ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ. 
+<b>🔥 ᴘᴀʏ ʏᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ ғᴇᴇs ₹349 ғᴏʀ 2 ᴍᴏɴᴛʜs ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇss ᴡɪᴛʜ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ. 
 
 ➻ ᴜᴘɪ ɪᴅ : dpanchal@oksbi
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ ᴀɴᴅ ɢɪᴠᴇ ᴍᴇ sᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ.</b>"""
 
     PLAN3_TXT = """
-<b>🔥 ᴘᴀʏ ʏᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ ғᴇᴇs ₹850 ғᴏʀ 1 ʏᴇᴀʀ ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇss ᴡɪᴛʜ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ. 
+<b>🔥 ᴘᴀʏ ʏᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ ғᴇᴇs ₹999 ғᴏʀ 1 ʏᴇᴀʀ ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇss ᴡɪᴛʜ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ. 
 
 ➻ ᴜᴘɪ ɪᴅ : dpanchal@oksbi
 
