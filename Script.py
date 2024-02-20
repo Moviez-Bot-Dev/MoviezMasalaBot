@@ -283,12 +283,13 @@ Message <b>: {}</b>"""
 <b>Query: {query}
 IMDb Data:
 
-🧿 𝐓𝐈𝐓𝐋𝐄: <a href={url}>{title}</a>
-🎭 𝐆𝐄𝐍𝐑𝐄𝐒: {genres}
-📆 𝐘𝐄𝐀𝐑: <a href={url}/releaseinfo>{year}</a>
-🌟 𝐑𝐀𝐓𝐈𝐍𝐆: <a href={url}/ratings>{rating}</a> / 10 (Based on {votes} user ratings)</b>
-☀️ 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄 : <code>{languages}</code></a>
-📀 𝐑𝐔𝐍𝐓𝐈𝐌𝐄: {runtime} Minutes</a>
+🧿Title</b>: <a href={url}>{title}</a>
+🎭 Genres: {genres}
+📆 Year: <a href={url}/releaseinfo>{year}</a>
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
+☀️ Languages : <code>{languages}</code>
+📀 RunTime: {runtime} Minutes
+⏰ Result Shown in: {remaining_seconds} 
 
 💁🏻‍♂️️ ʀᴇϙᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}</b>"""
 
