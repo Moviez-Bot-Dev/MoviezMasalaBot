@@ -272,8 +272,8 @@ Name <b>: {}</b>
 Message <b>: {}</b>"""
 
     CAPTION = """ 
-🗂 𝗙𝗶𝗹𝗲: <b><font class=smcp>{file_name}</font></b>
-📀 𝗦𝗶𝘇𝗲: <b><font class=smcp>{file_size}</font></b>
+🗂 ғɪʟᴇ: <b><font class=smcp>{file_name}</font></b>
+📀 sɪᴢᴇ: <b><font class=smcp>{file_size}</font></b>
 
 <b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/Mania24SupportBot">ᴘᴀʀᴀᴅɪsᴇ ᴍᴀɴɪᴀ</a>
 🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/Netflix_Bollywood_Movie_Series">ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a>
